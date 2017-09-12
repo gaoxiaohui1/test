@@ -1,6 +1,7 @@
 # test-project
 
 > A Vue.js project
+this is a vue-test-project
 
 ## Build Setup
 
